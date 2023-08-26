@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>902924141646-t5tl03sgg3i5i5s9kgdts7afisd4hd8k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.902924141646-t5tl03sgg3i5i5s9kgdts7afisd4hd8k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>902924141646-9gv3ji7k9pj2masot4tsl78kp4rj6vv7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA38b2V7z_xJbqKIdl-a9Amm5M6x2GNwog</string>
+	<key>GCM_SENDER_ID</key>
+	<string>902924141646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.saketSweetsApp</string>
+	<key>PROJECT_ID</key>
+	<string>saket-sweets</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saket-sweets.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:902924141646:ios:3a85e98989bba8fc3daf1f</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+{
+    "id": 32,
+    "name": null,
+    "email": null,
+    "firebase_id": "Fir12182381",
+    "email_verified_at": null,
+    "mobile": "8171271173",
+    "image": null,
+    "address": null,
+    "gender": null,
+    "device_token": "safsdfsdfsdf",
+    "created_at": "2022-03-02T06:50:23.000000Z",
+    "updated_at": "2022-03-02T06:50:23.000000Z",
+    "deleted_at": null,
+    "profile_photo_url": "https://ui-avatars.com/api/?name=&color=7F9CF5&background=EBF4FF"
+}

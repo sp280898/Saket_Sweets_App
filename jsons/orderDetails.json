@@ -1,0 +1,21 @@
+{
+    "id": 3,
+    "order_date_time": "04-03-2022",
+    "estimate_delivarty_time": "05-03-2022",
+    "food_id": "1",
+    "status": "paid",
+    "user_id": "65",
+    "delivary_address": "acd address",
+    "price": null,
+    "discount": "10",
+    "final_price": "200",
+    "comment": "abcd",
+    "payment_type": "getway",
+    "payment_id": "09876456789012",
+    "delivery": "0",
+    "late_night": null,
+    "delivery_charge": null,
+    "created_at": "2023-01-07 12:34:35",
+    "updated_at": null,
+    "deleted_at": null
+}

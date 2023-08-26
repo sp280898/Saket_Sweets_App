@@ -1,0 +1,8 @@
+{
+    "status": 200,
+    "msg": "Success",
+    "foodDetail": "$foodItemDetails",
+    "favourite": 0,
+    "subfood": "$[]foodItemDetails",
+    "all": "$[]foodItemDetails"
+}

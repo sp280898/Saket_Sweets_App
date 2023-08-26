@@ -1,0 +1,10 @@
+{
+    "id": 2,
+    "pin_code": "123456",
+    "delivary_amount": "89",
+    "late_night_charge": "09",
+    "master": "1",
+    "created_at": "2022-03-22 09:20:56",
+    "updated_at": "2022-03-22 09:47:07",
+    "deleted_at": null
+}

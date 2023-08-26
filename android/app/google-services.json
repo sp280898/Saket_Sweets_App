@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902924141646",
+    "project_id": "saket-sweets",
+    "storage_bucket": "saket-sweets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902924141646:android:d76cec11ea321dbe3daf1f",
+        "android_client_info": {
+          "package_name": "com.example.saket_sweets_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902924141646-9gv3ji7k9pj2masot4tsl78kp4rj6vv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saket_sweets_app",
+            "certificate_hash": "45ec7876196d62274e9bcd3f22404c7177ef92be"
+          }
+        },
+        {
+          "client_id": "902924141646-h41littd4hbrua2ptjd2uda0dr907u2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwUX4xZEcRsvLlzBvRJCnX4aZzjrkc1Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902924141646-h41littd4hbrua2ptjd2uda0dr907u2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

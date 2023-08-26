@@ -1,0 +1,8 @@
+{
+    "status": 200,
+    "msg": "Success",
+    "banner": "$[]bannerDetails",
+    "category": "$[]categoryDetails",
+    "foodItem": "$[]foodItemDetails",
+    "primaryAddress": "$addressDetails"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 7,
+    "plan_id": "2",
+    "user_id": "32",
+    "food_id": "1",
+    "date_time_start": "03-03-2022",
+    "date_time_end": "03-03-2022",
+    "is_paid_full": "yes",
+    "is_active": "yes",
+    "date_time_cancel": "no",
+    "actual_date_time_end": "03-03-2022",
+    "payment_type": null,
+    "payment_id": null,
+    "created_at": "2022-03-05 14:10:11",
+    "updated_at": null,
+    "deleted_at": null,
+    "plan_name": "Breakfast + Full Lunch + Full Dinner",
+    "plan_type": "quarterly"
+}
